@@ -8,7 +8,7 @@
   <img align="center" alt="Guel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Guel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Guel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/bd/48/4a/bd484a9e1fbc9c42d79dd1a1b8ccc028.jpg?width=676&height=676">
+  <img align="right" alt="Guel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/d7/21/68/d72168a03282c571b77d8fc2c3869a59.jpg?width=676&height=676">
 </div>
   
   ##
