@@ -1,4 +1,4 @@
-## Oiii eu sou o Miguel de Castro, estudante de conteúdo de programação e tecnologia!
+## Hi, I'm Miguel de Castro, student of programming and technology content
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
